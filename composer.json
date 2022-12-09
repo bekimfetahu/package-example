@@ -1,5 +1,5 @@
 {
-  "name": "bekimfetahu/package-examle",
+  "name": "bekimfetahu/package-example",
   "type": "library",
   "description": "Package built for Package Example.",
   "homepage": "https://github.com/bekimfetahu/package-example",
@@ -9,7 +9,7 @@
     "email": "bekim.fetahu@gmail.com"
   }],
   "require": {
-    "php": ">=7.4"
+    "php": ">=7.2"
   },
   "autoload": {
     "psr-4": {
