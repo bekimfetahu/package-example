@@ -1,0 +1,19 @@
+{
+  "name": "bekimfetahu/package-examle",
+  "type": "library",
+  "description": "Package built for Package Example.",
+  "homepage": "https://github.com/bekimfetahu/package-example",
+  "license": "MIT",
+  "authors": [{
+    "name": "Bekim Fetahu",
+    "email": "bekim.fetahu@gmail.com"
+  }],
+  "require": {
+    "php": ">=7.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "greeting\\": "src/"
+    }
+  }
+}
